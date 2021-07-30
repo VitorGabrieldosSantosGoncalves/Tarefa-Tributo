@@ -1,0 +1,181 @@
+.Titulo {
+	font-size: 40px;
+	text-align: center;
+	font-weight: bold;
+	background-color: lightgray;
+	padding: 50px;
+}
+
+.degrade {
+	 background: linear-gradient(#FEFEFE, #888888);
+}
+
+.titulo-principal, .titulo-nascimento, .titulo-nascimento, .titulo-joven, .titulo-adulta, .morte, .local-morte, .produções {
+	font-size: 34px;
+	font-weight: bold;
+	font-style: italic;
+	padding-left: 10px;
+	padding-top: 20px;
+	display: flex;
+	justify-content: space-around;
+	padding-bottom: 20px;
+}
+
+.textos, .texto-nascimento, .texto-joven, .texto-adulta, .texto-morte {
+	font-size: 27px;
+	padding-left: 20px;
+}
+
+.subtitulo-descobertas {
+	padding-top: 10px;
+	margin: 5px;
+	font-size: 23px;
+}
+
+.listas{
+
+}
+
+.video{
+	padding-left: 190px;
+	margin-bottom: 20px;
+}
+
+.lista1{
+	display: inline-block;
+	float: left;
+}
+
+.lista1, .lista-produções, .lista-legados {
+	padding-left: 10px;
+	font-weight: bold;
+}
+
+
+.local-nascimento {
+	font-size: 35px;
+	font-weight: bold;
+	display: flex;
+	justify-content: space-around;
+	margin-top: 20px;
+	padding-top: 20px;
+}
+
+.mapa, .mapa-morte {
+	display: flex;
+	justify-content: space-around;
+	margin: 20px;
+}
+
+.pais-eisten {
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	float: left;
+	margin-right: 10px;
+	margin-left: 5px;
+	box-sizing: border-box;
+    border-color: #000000 ;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #000000;
+}
+
+.joven{
+	padding-top: 60px;
+
+}
+
+.titulo-joven {
+	text-align: center;
+	margin-right: 160px;
+}
+
+.foto, .eisten {
+	display: inline-block;
+	width: 250px;
+	height: 250px;
+	float: left;
+	margin-right: 10px;
+	margin-left: 15px;
+	box-sizing: border-box;
+    border-color: #000000 ;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #000000;
+}
+
+.texto-joven {
+	width: 98%;
+}
+
+.filhos {
+	display: inline-block;
+	width: 250px;
+	height: 250px;
+	float: left;
+	margin-right: 10px;
+	margin-left: 15px;
+	box-sizing: border-box;
+    border-color: #000000 ;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #000000;
+}
+
+.neto {
+	display: inline-block;
+	width: 290px;
+	height: 270px;
+	float: right;
+	margin-right: 10px;
+	margin-left: 15px;
+	box-sizing: border-box;
+    border-color: #000000 ;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #000000;
+}
+
+.lista-produções {
+	font-size: 20pxs;
+	margin-bottom: 20px;
+}
+
+.eisten {
+	width: 260px;
+	height:100%;
+	padding-bottom: 30px;
+	box-sizing: border-box;
+    border-color: #000000 ;
+    border-width: 2px;
+    border-spacing: 0px;
+    border-style: solid;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #000000;
+}
+
+.legado {
+	padding-top: 10px;
+	font-size: 23px;
+	font-weight: bold;
+}
+
+.lista-legado {
+	font-size: 16px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+footer {
+	background: linear-gradient(#0000FF, #FF7F00);
+}
+
+.copyright {
+	margin: ;
+	text-align: center;
+}
